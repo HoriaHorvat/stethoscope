@@ -1,5 +1,7 @@
 # Stethoscope: User-Focused Security
 
+fork
+
 ![Giraffe logo](stethoscope/ui/public/static/images/giraffe-small.png)
 
 Stethoscope is a web application that collects information from existing device data sources (e.g.,
